@@ -13,10 +13,10 @@ This project takes elevator control to the next level by fusing real-world engin
 * Sinamics StartDrive: Fine-tuning the VFD for precise motor control
 * WinCC: HMI design and monitoring
 
-HMI
+HMI Video
 https://github.com/user-attachments/assets/41344f59-0c5f-4d38-859a-3bb5c22d2be2
 
-Demonstration
+Demonstration Video
 https://github.com/user-attachments/assets/47cee7fd-2f56-4725-80d6-4409607cb457
 
 VFD 
